@@ -21,7 +21,7 @@ Referencias:
 - [Mozilla Developer Network - Referencia de Atributos HTML](https://developer.mozilla.org/es/docs/Web/HTML/Atributos)
 - [Ayuda de Search Console - Directrices de Contenido de Google](https://support.google.com/webmasters/topic/4598733?hl=es&ref_topic=6001981)
 - [W3Schools - HTML <meta> Tag](https://www.w3schools.com/tags/tag_meta.asp)
-- [Complete List of HTML Meta Tags](https://gist.github.com/whitingx/3840905)
+- [Github - kevinSuttle - Complete List of HTML Meta Tags](https://gist.github.com/kevinSuttle/1997924)
 - [Meta Tags - The most complete social media meta tag generator](https://megatags.co)
 - [Facebook - Guía para webmaster sobre el uso compartido](https://developers.facebook.com/docs/sharing/webmasters#markup)
 - [Secret Sauce Blog - The Ultimate Guide to Social Media Meta Tags](https://secretsaucehq.com/blog/social-media/the-ultimate-guide-to-social-media-meta-tags/)
