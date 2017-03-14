@@ -20,6 +20,7 @@ Algunas referencias:
 - [HTML5 Doctor - HTML5 Element Index](http://html5doctor.com/element-index/) 
 - [Mozilla Developer Network - Referencia de Atributos HTML](https://developer.mozilla.org/es/docs/Web/HTML/Atributos)
 - [Ayuda de Search Console - Directrices de Contenido de Google](https://support.google.com/webmasters/topic/4598733?hl=es&ref_topic=6001981)
+- [W3C Recommendation - Content Models](https://www.w3.org/TR/html51/dom.html#content-models)
 - [W3C Recommendation - Document Metadata](https://www.w3.org/TR/html51/document-metadata.html#document-metadata)
 - [W3Schools - HTML <meta> Tag](https://www.w3schools.com/tags/tag_meta.asp)
 - [Github - kevinSuttle - Complete List of HTML Meta Tags](https://gist.github.com/kevinSuttle/1997924)
