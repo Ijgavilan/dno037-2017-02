@@ -10,12 +10,12 @@ __
 
 En esta clase vamos a: 
 
-- aprender distintos elementos de HTML5, destacando su intención semántica
+- aprender distintos elementos de HTML5, destacando su intención semántica.
 - identificar algunos atributos de los elementos HTML, como valores adicionales de configuración.
-- examinar las metaetiquetas para mejorar el posicionamiento en buscadores (SEO)
+- examinar las metaetiquetas para mejorar el posicionamiento en buscadores (SEO) y la presencia en redes sociales.
 - diferenciar los elementos HTML de las reglas CSS, vinculando contenidos con el modo de presentarse correspondiente.
 
-Referencias: 
+Algunas referencias: 
 
 - [HTML5 Doctor - HTML5 Element Index](http://html5doctor.com/element-index/) 
 - [Mozilla Developer Network - Referencia de Atributos HTML](https://developer.mozilla.org/es/docs/Web/HTML/Atributos)
