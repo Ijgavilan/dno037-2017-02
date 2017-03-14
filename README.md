@@ -23,6 +23,5 @@ Referencias:
 - [W3Schools - HTML <meta> Tag](https://www.w3schools.com/tags/tag_meta.asp)
 - [Github - kevinSuttle - Complete List of HTML Meta Tags](https://gist.github.com/kevinSuttle/1997924)
 - [Meta Tags - The most complete social media meta tag generator](https://megatags.co)
-- [Facebook - Guía para webmaster sobre el uso compartido](https://developers.facebook.com/docs/sharing/webmasters#markup)
 - [Secret Sauce Blog - The Ultimate Guide to Social Media Meta Tags](https://secretsaucehq.com/blog/social-media/the-ultimate-guide-to-social-media-meta-tags/)
 - [W3Schools - CSS How To...](https://www.w3schools.com/css/css_howto.asp)
